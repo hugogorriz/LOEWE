@@ -1,4 +1,3 @@
-title descuento
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -55,8 +54,15 @@ title descuento
 <body>
     <div class="cupon">
         <h1>LOEWE</h1>
-        <img src="logo_loewe.png" alt="Logo Loewe">
+        <img src="https://drive.google.com/uc?id=1O4h39KkRMY1jCaKcEgE8cJNgno0hK12I" alt="Logo Loewe">
         <h2>Cupón de Descuento Exclusivo</h2>
+        <p>¡Felicidades! Has ganado un cupón del 10% de descuento para tu próxima compra en Loewe.</p>
+        <p>Presenta este cupón al realizar tu compra en nuestra tienda de moda urbana.</p>
+        <p class="descuento">Descuento: 10%</p>
+    </div>
+</body>
+</html>
+
         <p>¡Felicidades! Has ganado un cupón del 10% de descuento para tu próxima compra en Loewe.</p>
         <p>Presenta este cupón al realizar tu compra en nuestra tienda de moda urbana.</p>
         <p class="descuento">Descuento: 10%</p>
