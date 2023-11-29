@@ -63,9 +63,4 @@
 </body>
 </html>
 
-        <p>¡Felicidades! Has ganado un cupón del 10% de descuento para tu próxima compra en Loewe.</p>
-        <p>Presenta este cupón al realizar tu compra en nuestra tienda de moda urbana.</p>
-        <p class="descuento">Descuento: 10%</p>
-    </div>
-</body>
-</html>
+     
